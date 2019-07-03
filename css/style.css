@@ -1,0 +1,72 @@
+.body 
+{
+    margin:0;
+    padding:0;
+    font-family:sans-serif;   
+}
+
+h5{
+    color:#2f3c72;
+}
+
+h4{
+    color:rgb(249, 184, 189);
+}
+
+h1{
+    color:rgb(249, 184, 189)
+}
+
+h2{
+    color:rgb(249, 184, 189)
+}
+
+p{
+   color:#2f3c72;
+}
+
+.nav-bar
+{
+    position: -webkit-sticky; /*-----add this for Safari---*/
+    top:0;
+    position:sticky;
+    z-index:1020;
+}
+.navbar 
+{
+    background-color:#fbEAEB;
+}
+
+.navbar-brand img
+{
+    height:50px;  
+}
+
+.navbar .fa-bars
+{
+    font-size:35px;
+    columns: #2f3c72;
+}
+
+.navbar-toggler
+{
+    outline:none !important;
+}
+.navbar-nav 
+{
+    float:right;
+    text-align:right;
+}
+.nav-link  
+{
+    color:#2f3c72 !important;
+}
+
+.img2 {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    
+    
+  }
+
